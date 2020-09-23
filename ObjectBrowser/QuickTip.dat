@@ -1,0 +1,10 @@
+Control pannel|This demo application will show you how the ObjectBrowser components works togather with the QuicTip component.||
+Open a file|Click this button for selecting a file. You must select a valid OLE/COM component which has an acompanying type library.||
+Object Browser settings|This will control how the tree view is build up.</P>Group by type : This will add an extra level to the treeview and for instance all properties will be put in a properties folder.<BR>Enum object in root : Do you want to see enumerations as an object.<BR>Extend inner objects : If an object has a child object then this child object will also be processed.<BR>Extend parent property : If you extend inner object then you might not want the parent property to be fully described as an object<BR>Remove refered objects : If an object is extended somewhere as a child object then you probably do not also want to see it in the root||
+Selected file|This is the file that will be used in our next action (<a href="QuickTip:File to browser?Interface">to browser</a> or <a href="QuickTip:File to database?Interface">to database</a>)||
+File to browser|This will process the selected file and show the structure in the object browser. You can add as many files as you want.||
+File to database|This will process the selected file and put the data into the database.||
+QuickTip|When you hoover your mouse over any of the controls in this control panel then you will see a description in the QuickTip screen. The QuickTip screen is also linked to the object browser. Just see what happens when you select a node. (also try a double click)||
+Custom objects|The object tree can be extended with custom objects. In my case i needed this inside <a href="http://siteskinner.com">SiteSkinner</a> for adding the public objects which are not in the dll but still could be accessd from a script.||
+SiteSkinner| Please visit <a href="http://siteskinner.com">http://siteskinner.com</a> for a complete description of Site Skinner. You can also download a 90 day trial from here.||
+|||
