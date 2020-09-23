@@ -1,0 +1,8 @@
+
+Please read the readme.txt first.
+
+Instructions:
+Run the file Objectbrowser\objectdoc.exe or compile the project Objectbrowser\objectdoc.vbp
+This project has both the objectbrowser control as the QuickTip Control embeded
+
+For the latest version and for the complete documentation please visit http://www.evict.nl
